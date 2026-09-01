@@ -23,7 +23,7 @@ Actualmente estoy profundizando mis conocimientos en **desarrollo backend, TypeS
 
 ---
 
-### 👨‍💻 Actualmente trabajando en
+### 👨‍💻 Actualmente desarrollando:
 
 **Chimimanitas** 🧶
 
