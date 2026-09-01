@@ -1,18 +1,19 @@
 <div align="center">
 
-# ¡Hola! Soy Benjamin Figueroa 👋
+# ¡Hola! Soy Benjamin Figueroa 
 
 **Ingeniero en Informática**
 
 Enfocado en **desarrollo de software**, **backend** y **tecnología**
 
 [![GitHub](https://img.shields.io/badge/GitHub-yiik223-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/yiik223)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-figueroa-b6b895345/)
 
 </div>
 
 ---
 
-### 🚀 Sobre mí
+### 👤 Sobre mí
 
 Soy **Ingeniero en Informática** interesado en el desarrollo de software y en comprender cómo funcionan las tecnologías detrás de una solución.
 
@@ -22,7 +23,7 @@ Actualmente estoy profundizando mis conocimientos en **desarrollo backend, TypeS
 
 ---
 
-### 🧩 Actualmente trabajando en
+### 👨‍💻 Actualmente trabajando en
 
 **Chimimanitas** 🧶
 
@@ -117,18 +118,8 @@ Aplicación para la gestión de tareas utilizando la metodología Kanban.
 
 ---
 
-### 📊 GitHub
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yiik223&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-
-</div>
-
----
-
-<div align="center">
-
-📫 **Siempre estoy interesado en aprender, construir y enfrentar nuevos desafíos.**
+📫 **Siempre aprendiendo, siempre construyendo. ¿Qué podemos crear juntos? **
 
 </div>
